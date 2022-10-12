@@ -1,0 +1,9 @@
+.box{
+    background: linear-gradient(160.34deg, rgba(255, 255, 255, 0.4) 4.64%, rgba(255, 255, 255, 0.4) 100.66%),
+linear-gradient(163.31deg, rgba(255, 255, 255, 0.6) 8.56%, rgba(255, 255, 255, 0) 89.19%);
+border: 3px solid;
+
+border-image-source: linear-gradient(163.31deg, rgba(255, 255, 255, 0.6) 8.56%, rgba(255, 255, 255, 0) 89.19%);
+
+
+}

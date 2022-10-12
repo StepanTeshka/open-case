@@ -1,0 +1,17 @@
+.weapon_blue {
+    background: linear-gradient(151.06deg, #057087 54.39%, #FFFFFF 145.54%),
+linear-gradient(163.31deg, rgba(255, 255, 255, 0.6) 8.56%, rgba(255, 255, 255, 0) 89.19%);
+border: 3px solid;
+
+border-image-source: linear-gradient(163.31deg, rgba(255, 255, 255, 0.6) 8.56%, rgba(255, 255, 255, 0) 89.19%);
+}
+
+.weapon_purple{
+    background: linear-gradient(153.66deg, #382056 55.65%, #FFFFFF 124.39%),
+linear-gradient(163.31deg, rgba(255, 255, 255, 0.6) 8.56%, rgba(255, 255, 255, 0) 89.19%);
+border: 3px solid;
+
+border-image-source: linear-gradient(163.31deg, rgba(255, 255, 255, 0.6) 8.56%, rgba(255, 255, 255, 0) 89.19%);
+
+
+}
